@@ -137,3 +137,12 @@ td.Content{
     color: #6C5F5B;
     text-align: center;
 }
+#nav-bar{
+    font-size: 20px;
+    width: 1200px;
+    background-color:#EFD595;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.bar:hover{
+    color:#CE5A67;
+}
