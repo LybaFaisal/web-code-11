@@ -1,0 +1,139 @@
+#div1{
+    font-size: 35px;
+    background-color: #FCF5ED;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a{
+    text-decoration: none;
+}
+a:link{
+    color: crimson;
+   
+}
+a:visited{
+    color:green;
+    
+}
+a:hover{
+    color: cadetblue;
+    background-color: #D0D4CA;
+    border-radius: 9px;
+}
+a:active {
+    color: blue;
+  }
+h1{
+    font-size: 40px;
+    color: #CE5A67;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}  
+#div2{
+    text-align: right;
+}
+#tag1{
+    text-align: left;
+    width: 400px;
+    position:absolute;
+    margin-left: 200px;
+    margin-top: 150px;
+    font-size: 28px;
+    color: #6C5F5B;
+}
+#div3{
+    font-size: 27px;
+    color: #6C5F5B;
+    text-align: center;
+    background-color: #FCF5ED;
+    }
+.table{
+    font-size: 30px;
+    background-color: #FCF5ED;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #662549;
+    padding: 25px;
+}
+td.Content{
+    background-color: #FCF5ED;
+    color: #9A4444;
+    font-size: 20px;
+    padding: 15px;
+}
+#colour1{
+    background-color: #EF9595;
+}
+#colour2{
+    background-color: #EF9595;
+}
+#colour3{
+    background-color: #EFB495;
+}
+#colour4{
+    background-color: #EFB495;
+}
+#colour5{
+    background-color: #EFD595;
+}
+#colour6{
+    background-color: #EFD595;
+}
+#colour7{
+    background-color: #EBEF95;
+}
+#colour8{
+    background-color: #EBEF95;
+}
+.heading1{
+    font-size: 40px;
+    color: #CE5A67;
+    text-align: center;
+    background-color: #FCF5ED;
+}
+.table2{
+    font-size: 30px;
+    background-color: #FCF5ED;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #662549;
+    padding: 25px;
+}
+.td{
+    text-align: center;
+    font-size: 20px;
+    padding: 15px;
+    background-color: #FCF5ED;
+    color: #9A4444;
+}
+#pro{
+    background-color: #EFD595;
+}
+#txt1{
+    font-size: 30px;
+}
+#txt2{
+    font-size: 30px;
+}
+#txt3{
+    font-size: 30px;
+}
+#heading2{
+    font-size: 40px;
+    color: #6C5F5B;
+    text-align: center;
+    background-color: #FCF5ED;
+}
+.figure{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #9A4444;
+}
+.w3{
+    font-size: 24px;
+    color: #9A4444;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#lasttag{
+    font-size: 50px;
+    color: #6C5F5B;
+    text-align: center;
+}
